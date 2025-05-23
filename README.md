@@ -55,7 +55,7 @@ The focus is on three major brands (Beate Uhse, CalExotics, and Sh!) plus one av
 
 ## Future Directions
 
-- Expand to include SQL-based queries and dashboards (BI integration)
+- Expand to include dashboards (BI integration)
 - Explore aging, disability, and inclusive design as new product segments
 - Analyze user-generated reviews for emotional and functional clustering
 - Investigate regulation gaps in global sex tech markets (e.g., CE marking, data privacy)
