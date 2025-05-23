@@ -68,4 +68,4 @@ All data were publicly available. Historical and market insights reference:
 
 ---
 
-> This repository is part of my transition into data analytics. It reflects my interests in gender, culture, and market intelligence — and my ability to combine technical tools with thoughtful research.
+> This repository is part of my transition into data analytics. It reflects my interests in gender, culture, and market intelligence and my ability to combine technical tools with thoughtful research.
