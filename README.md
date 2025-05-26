@@ -66,7 +66,7 @@ All data were publicly available. Historical and market insights reference:
 - Wikipedia, Sexual Medicine, Grand View Research, academic surveys (linked in the notebook)
 - Full reference list included at the end of the notebook.
 
->For a code-free version of the project, visit my personal website: (virginialevy.com)[https://virginialevy.com/]
+>For a code-free version of the project, visit my personal website: https://virginialevy.com/
 
 ---
 
